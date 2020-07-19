@@ -1,7 +1,7 @@
 # ESC180  
 This repository contains labs for U of T Engineering Science's ESC180 (Introduction to Computer Programming) course. The assignments are coded in Python and C. 
 
-## Lab 1 
+### Lab 1 
 ## Lab 2 
 ## Lab 3 
 ## Lab 4 
