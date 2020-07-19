@@ -1,0 +1,3 @@
+/*
+ * Type D is float *
+ */
