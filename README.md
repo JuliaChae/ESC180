@@ -9,6 +9,7 @@ This repository contains labs for U of T Engineering Science's ESC180 (Introduct
 
 **Lab 4**  Part A: Write a counter class in Python as a simple example of a Finite State Machine (FSM) & test it   
 Part B: Design a sequence detection FSM in Python that can detect a repeating text sequence in a sentence   
+
 **Lab 5**  Generate Python libraries to simulate Conway's Game of Life   
 
 **Lab 6**  Part A: Program and compile C square root function  
