@@ -1,10 +1,9 @@
 # ESC180  
 This repository contains labs for U of T Engineering Science's ESC180 (Introduction to Computer Programming) course. The assignments are coded in Python and C. 
 
-**Lab 1**  
-Design a Tic Tac Toe Program in Python that generates & displays the game board and allows two users to play against each other    
-**Lab 2**  
-Design a Tic Tac Toe Program in Python that generates moves automatically, enabling a one player versus computer game    
+**Lab 1**  Design a Tic Tac Toe Program in Python that generates & displays the game board and allows two users to play against each other    
+
+**Lab 2**  Design a Tic Tac Toe Program in Python that generates moves automatically, enabling a one player versus computer game    
 **Lab 3**  
 Explore UNIX commands and write an application (i.e., a program) that will open a file, read its contents, modify said contents, and print the result  
 **Lab 4**  
